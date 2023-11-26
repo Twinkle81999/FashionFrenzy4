@@ -1,0 +1,190 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: #eba817;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  
+  }
+  .nav-child img{
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+    margin-left: 60px;
+    
+  }
+  .nav-link{
+    display: flex!important;
+    justify-content: center!important;
+    margin-top: -30px;
+  }
+  .nav-child a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 20px;
+    color: black;
+  }
+  .nav-child a:hover{
+    color: white;
+    text-decoration: underline;
+  }
+  .nav-child-search{
+    position: relative;
+    right: 20px;
+    border-radius: 2rem;
+  }
+
+
+
+
+.all-links{
+    background-image: url('https://manyavar.scene7.com/is/image/manyavar/Nav_Men_D_03-03-2023-09-36?$WT%5FNavBar%5FD$');
+    background-repeat: no-repeat;
+    background-position: right;
+    opacity: 1;
+}
+
+.second-line a{
+    display: block;
+    text-decoration: none;
+    color: rgb(49, 35, 35);
+    font-size: 15px;
+    padding-top: 10px ;
+}
+.second-line a:hover{
+   color:  aliceblue;
+}  
+
+.Indian h5{
+    color: rgb(238, 49, 112);
+    position: relative;
+    bottom: 7rem;
+    padding-left: 2rem;
+}
+.Trd-line a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: rgb(49, 35, 35);
+    font-size: 15px;
+}
+.Trd-line a :hover{
+    color: aliceblue;
+}
+
+.footwear h5{
+    color: rgb(238, 49, 112);
+    padding-left: 2rem;
+    position: relative;
+    bottom: 5rem;
+}
+.frth-line a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: rgb(49, 35, 35);
+    font-size: 15px;
+}
+.frth-line a :hover{
+    color: aliceblue;
+}
+
+.accessories h5{
+    color: rgb(238, 49, 112);
+    padding-left: 19rem;
+    position: relative;
+    bottom: 13rem;
+}
+.fifth-line a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: rgb(49, 35, 35);
+    font-size: 15px;
+}
+.fifth-line a :hover{
+    color: aliceblue;
+} 
+
+.links-main-div{
+    display: flex;
+    flex-direction: column;
+}
+.all-links{
+    width: 100%;
+    height: 700px;
+    background-color: lightpink;
+}
+.link-child-div{
+    display: flex;
+}
+.link-sib-child a{
+    display: block;
+    text-decoration: none;
+}
+.link-sib-child a:hover{
+    color: white;
+}
+.link-child-div h5{
+    color: darkmagenta;
+}
+.link-child-div a{
+    color: rgb(51, 31, 31);
+}
+
+@media only screen and (max-width:707px) and (min-width:510px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    .Fashion{
+        position: relative;
+        left: -10rem;
+        top: 1rem;
+        font-size: 20px;
+      }
+      .right-top-menu{
+    position: relative;
+    top: -1rem;
+    font-size: 15px;
+      }
+  
+      .nav-child{
+        
+        display: flex;
+        justify-content: space-around;
+      }
+      .nav-child img{
+        position: relative;
+        right: 3rem;
+      }
+      .nav-child a{
+        word-spacing: 2px;
+        font-size: 12px;
+        position: relative;
+        right: 7rem;
+        bottom: 0rem;
+      }
+      .nav-child-search{
+        box-sizing: 2px;
+        width: 1px;
+        position: relative;
+        bottom: -0.6rem;
+        left: -10rem;
+        font-size: 8px;
+        
+      }
+      .nav-child-search button{
+        position: relative;
+        left: 6.6rem;
+        bottom: 1.2rem;
+      }
+    .all-links{
+        width: 700px;
+        height: 700px;
+       
+    }
+    
+    }

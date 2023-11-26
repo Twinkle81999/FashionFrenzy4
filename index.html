@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-photo/front-view-woman-with-shopping-bag-concept_23-2148674158.jpg?size=626&ext=jpg&ga=GA1.1.664619585.1697294965&semt=ais');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+    width: 500px;
+    
+   
+}
+.main-block{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(218, 18, 218);
+    border-radius: 5px;
+    position: relative;
+    left: 10rem;
+    top: 6rem;
+}
+#h1tag{
+    position: relative;
+    left: 9rem;
+    color: aliceblue;
+}
+#h2tag{
+    position: relative;
+    left: 7rem;
+    bottom: 2px;
+    
+}
+#FN{
+   
+    padding-left: 25px;
+}
+#EA{
+    position: relative;
+    top: 1.70rem;
+}
+#Ea2{
+    position: relative;
+    top: 1.70rem;
+}
+#Pa{
+    position: relative;
+    top: 3rem;
+}
+#Pa2{
+    position: relative;
+    top: 3rem;
+}
+
+.buttonClass{
+    background-color: black;
+    /* height: 150px;
+    width: 150px; */
+    color: aliceblue;
+    text-decoration: none;
+    position: relative;
+    top: 4rem;
+
+}
+
+@media only screen and (max-width:707px) and (min-width:510px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+    width: 200px;
+    background-color: rgb(218, 18, 218);
+    border-radius: 5px;
+    position: relative;
+    left: 5rem;
+    top: 2rem;
+    }
+    #h1tag{
+        position: relative;
+        left: 4.6rem;
+        color: aliceblue;
+        font-size: 18px;
+    }
+    #h2tag{
+        position: relative;
+        left: 3rem;
+        bottom: 20px;
+        font-size: 16px;
+        
+    }
+    #FN{
+       
+        padding-left: 2rem;
+        font-size: 12px;
+        position: relative;
+        bottom: 1.6rem;
+    }
+    #fn2{
+        width: 95px;
+        font-size: 10px;
+        position: relative;
+        right: 0rem;
+        bottom: 1.5rem;
+    }
+    #EA{
+        position: relative;
+        top: 0rem;
+        font-size: 12px;
+       
+    }
+    #Ea2{
+        position: relative;
+        top: 0rem;
+        width: 95px;
+        font-size: 10px;
+    }
+    #Pa{
+        position: relative;
+        top: 1rem;
+        font-size: 12px;
+        right: 0rem;
+    }
+    #Pa2{
+        position: relative;
+        top: 1rem;
+        width: 95px;
+        font-size: 10px;
+    }
+    
+    .buttonClass{
+        background-color: black;
+        /* height: 150px;
+        width: 150px; */
+        color: aliceblue;
+        text-decoration: none;
+        position: relative;
+        top: 1rem;
+        font-size: 13px;
+    
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="main-block">
+        <h1 id="h1tag" style="color:aliceblue">Log_In</h1>
+        <h2 id="h2tag">Fashion Frenzy</h2>
+        <center>
+            <form action="form1"> 
+                <div class="block2">
+                    <label id="FN">Full Name</label>
+                    <input id="fn2" type="text" placeholder="ENTER YOUR NAME..." name="" required><br>
+                
+                    <label id="EA">Email Address</label>
+                    <input id="Ea2" type="email" placeholder="EMAIL ADDRESS" name="" required><br>
+                
+                
+                    <label id="Pa">Enter Password</label>
+                    <input id="Pa2" type="password" placeholder="ENTER PASSWORD" name="" required>
+                </div>
+                 <div><br>
+                    
+                    <a href="http://127.0.0.1:5500/Fashionfrenzy.html" class="buttonClass">Submit</a>
+                </div>
+                </center>
+</body>
+</html>

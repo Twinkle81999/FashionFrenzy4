@@ -1,0 +1,2270 @@
+.Trainers{
+    position: relative;
+    top: 3rem;
+    text-align: center;
+    right: 35rem ;
+   }
+   .Trainers1{
+       margin-left: 15rem;
+       width: 50px;
+       position: relative;
+       bottom: 20rem;
+       left: 3rem;
+   }
+   .Trainers1 h4{
+       position: relative;
+       left: 2rem;
+   }
+   .Trainers1 h6{
+       text-align: justify;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       left: 4rem;
+   }
+   .Trainers1 p{
+    position: relative;
+    left: 2.6rem;
+   }
+   .Trainers2{
+      position: relative;
+      right: 1rem;
+      text-align: center;
+      bottom: 38.50rem;
+   }
+   .jeans1{
+       position: relative;
+       bottom: 65rem;
+       text-align: end;
+       right: 22rem;
+    
+   }
+   .jeans1 h4{
+       position: relative;
+       right: 3rem ;
+   }
+   .jeans1 h6{
+    position: relative;
+       right: 2rem ;
+   } 
+   .jeans1 img{
+       height: 180px;
+       width: 170px;
+   }
+   .jeans1 p{
+       position: relative;
+       right: 1rem;
+   }
+   .jeans2{
+       position: relative;
+       bottom: 84rem;
+       text-align: end;
+       right: 5rem;
+   }
+   .jeans2 img{
+       height: 180px;
+       width: 170px;
+   }
+   .jeans2 h4{
+       position: relative;
+       right: 1.8rem;
+   }
+   .jeans2 h6{
+    position: relative;
+    right: 1.8rem;
+   }
+   .jeans2 p{
+       position: relative;
+       right: 1.8rem;
+   }
+   .jeans3{
+       position: relative;
+       bottom: 66rem;
+       text-align: center;
+       right: 35rem;
+      
+   }
+   .jeans3 img{
+       height: 180px;
+       width: 170px;
+   }
+   .jeans4{
+       position: relative;
+       bottom: 84rem;
+       text-align: center;
+       right: 19rem;
+   }
+   .jeans4 img{
+       height: 180px;
+       width: 170px;
+   }
+   .jeans5{
+   position: relative;
+   bottom: 98rem;
+   text-align: center;
+   right: 1rem;
+   
+   }
+   .jeans5 img{
+    width: 190px;
+    height: 190px; 
+   }
+   .jeans6{
+       position: relative;
+   bottom: 119.8rem;
+   text-align: end;
+   right: 20rem;
+   }
+   .jeans6 img{
+    width: 190px;
+    height: 190px; 
+   }
+   .jeans6 h4{
+       position: relative;
+       right: 1.5rem;
+   }
+   .jeans6 h6{
+       position: relative;
+       right: 2.8rem;
+   }
+   .jeans6 p{
+       position: relative;
+       right: 2rem;
+   }
+   .jeans7{
+       position: relative;
+       bottom: 140rem;
+       text-align: end;
+       right: 3rem;
+   }
+   .jeans7 h4{
+       position: relative;
+       right: 2rem;
+   }
+   .jeans7 h6{
+       font-size: 14px;
+       position: relative;
+       right: 4rem;
+   }
+   .jeans7 p{
+       position: relative;
+       right: 2.5rem;
+   }
+   
+   .navbar{
+    width: 100%;
+    height: 50px;
+    background-color: #eba817;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  
+  }
+  .nav-child img{
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+    margin-left: 60px;
+    
+  }
+  .nav-link{
+    display: flex!important;
+    justify-content: center!important;
+    margin-top: -30px;
+  }
+  .nav-child a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 20px;
+    color: black;
+  }
+  .nav-child a:hover{
+    color: white;
+    text-decoration: underline;
+  }
+  .nav-child-search{
+    position: relative;
+    right: 20px;
+    border-radius: 2rem;
+  }
+  .body h1{
+    text-align: center;
+    position: relative;
+    top: 2rem;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .saree h1{
+    text-align: center;
+    position: relative;
+    bottom: 133rem;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .saree1{
+    position: relative;
+    top: -130rem;
+    text-align: center;
+    right: 34rem ;
+   }
+   .saree2{
+       margin-left: 15rem;
+       width: 50px;
+       position: relative;
+       bottom: 150rem;
+       left: 3rem;
+   }
+   .saree2 h4{
+       position: relative;
+       left: 3rem;
+   }
+   .saree2 h6{
+       text-align: justify;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       left: 2rem;
+       width: 120px;
+   }
+   .saree2 p{
+    position: relative;
+    left: 2rem;
+   }
+   .saree3{
+      position: relative;
+      right: 2rem;
+      text-align: center;
+      bottom: 168rem;
+   }
+   .saree4{
+       position: relative;
+       bottom: 186rem;
+       text-align: end;
+       right: 22rem;
+   }
+   .saree4 h4{
+       position: relative;
+       right: 3rem ;
+   }
+   .saree4 h6{
+    position: relative;
+    right: 40px;
+   }
+   .saree4 img{
+       height: 180px;
+       width: 170px;
+   }
+   .saree4 p{
+       position: relative;
+       right: 1rem;
+   }
+   .saree5{
+       position: relative;
+       bottom: 203rem;
+       text-align: end;
+       right: 5rem;
+   }
+   .saree5 img{
+       height: 180px;
+       width: 170px;
+   }
+   .saree5 h4{
+       position: relative;
+       right: 4rem;
+   }
+   .saree5 h6{
+    position: relative;
+    right: 1rem;
+}
+   .saree5 p{
+       position: relative;
+       right: 1.8rem;
+   }
+   
+   .saree6{
+    position: relative;
+    bottom: 204rem;
+    text-align: center;
+    right: 35rem;
+}
+.saree6 img{
+    height: 180px;
+    width: 170px;
+}
+.saree7{
+    position: relative;
+    bottom: 220rem;
+    text-align: center;
+    right: 19rem;
+}
+.saree7 img{
+    height: 180px;
+    width: 170px;
+}
+.saree8{
+position: relative;
+bottom: 235rem;
+text-align: center;
+right: 2rem;
+}
+.saree9{
+    position: relative;
+bottom: 255rem;
+text-align: end;
+right: 20rem;
+}
+.saree9 h4{
+    position: relative;
+    right: 4.5rem;
+}
+.saree9 h6{
+    position: relative;
+    right: 3.5rem;
+}
+.saree9 p{
+    position: relative;
+    right: 2rem;
+}
+.saree10{
+    position: relative;
+    bottom: 276rem;
+    text-align: end;
+    right: 3rem;
+}
+.saree10 h4{
+    position: relative;
+    right: 4rem;
+}
+.saree10 h6{
+    font-size: 14px;
+    position: relative;
+    right: 4rem;
+}
+.saree10 p{
+    position: relative;
+    right: 2rem;
+}
+
+.Jeans{
+    position: relative;
+    bottom: 140rem;
+}
+.Jeans h1{
+    text-align: center;
+    position: relative;
+    bottom: 133rem;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wJeans1{
+    position: relative;
+    top: -130rem;
+    text-align: center;
+    right: 34rem ;
+   }
+   .wJeans2{
+       margin-left: 15rem;
+       width: 50px;
+       position: relative;
+       bottom: 151rem;
+       left: 3rem;
+   }
+   .wJeans2 h4{
+       position: relative;
+       left: 3rem;
+   }
+   .wJeans2 h6{
+       text-align: justify;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       left: 2rem;
+       width: 120px;
+   }
+   .wJeans2 p{
+    position: relative;
+    left: 2rem;
+   }
+   .wJeans3{
+      position: relative;
+      right: 2rem;
+      text-align: center;
+      bottom: 173rem;
+   }
+   .wJeans4{
+       position: relative;
+       bottom: 193rem;
+       text-align: end;
+       right: 22rem;
+   }
+   .wJeans4 h4{
+       position: relative;
+       right: 3rem ;
+   }
+   .wJeans4 h6{
+    position: relative;
+    right: 40px;
+   }
+   .wJeans4 img{
+       height: 180px;
+       width: 170px;
+   }
+   .wJeans4 p{
+       position: relative;
+       right: 1rem;
+   }
+   .wJeans5{
+       position: relative;
+       bottom: 206rem;
+       text-align: end;
+       right: 5rem;
+   }
+   .wJeans5 img{
+       height: 180px;
+       width: 170px;
+   }
+   .wJeans5 h4{
+       position: relative;
+       right: 4rem;
+   }
+   .wJeans5 h6{
+    position: relative;
+    right: 1rem;
+}
+   .wJeans5 p{
+       position: relative;
+       right: 1.8rem;
+   }
+   
+   .wJeans6{
+    position: relative;
+    bottom: 207rem;
+    text-align: center;
+    right: 35rem;
+}
+.wJeans6 img{
+    height: 180px;
+    width: 170px;
+}
+.wJeans7{
+    position: relative;
+    bottom: 223rem;
+    text-align: center;
+    right: 19rem;
+}
+.wJeans7 img{
+    height: 180px;
+    width: 170px;
+}
+.wJeans8{
+position: relative;
+bottom: 238rem;
+text-align: center;
+right: 2rem;
+}
+.wJeans9{
+    position: relative;
+bottom: 258rem;
+text-align: end;
+right: 20rem;
+}
+.wJeans9 h4{
+    position: relative;
+    right: 4.5rem;
+}
+.wJeans9 h6{
+    position: relative;
+    right: 2rem;
+}
+.wJeans9 p{
+    position: relative;
+    right: 2rem;
+}
+.wJeans10{
+    position: relative;
+    bottom: 277rem;
+    text-align: end;
+    right: 3rem;
+}
+.wJeans10 h4{
+    position: relative;
+    right: 4rem;
+}
+.wJeans10 h6{
+    font-size: 14px;
+    position: relative;
+    right: 20px;
+}
+.wJeans10 p{
+    position: relative;
+    right: 2rem;
+}
+.Dreeses{
+    position: relative;
+    bottom: 280rem;
+}
+
+.Dreeses h1{
+    text-align: center;
+    position: relative;
+    bottom: 133rem;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Dreese1{
+    position: relative;
+    top: -130rem;
+    text-align: center;
+    right: 34rem ;
+   }
+   .Dreese2{
+       margin-left: 15rem;
+       width: 50px;
+       position: relative;
+       bottom: 150rem;
+       left: 3rem;
+   }
+   .Dreese2 h4{
+       position: relative;
+       left: 3rem;
+   }
+   .Dreese2 h6{
+       text-align: justify;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       left: 2rem;
+       width: 120px;
+   }
+   .Dreese2 p{
+    position: relative;
+    left: 2rem;
+   }
+   .Dreese3{
+      position: relative;
+      right: 2rem;
+      text-align: center;
+      bottom: 172rem;
+   }
+   .Dreese4{
+       position: relative;
+       bottom: 192rem;
+       text-align: end;
+       right: 22rem;
+   }
+   .Dreese4 h4{
+       position: relative;
+       right: 3rem ;
+   }
+   .Dreese4 h6{
+    position: relative;
+    right: 40px;
+   }
+   .Dreese4 img{
+       height: 180px;
+       width: 170px;
+   }
+   .Dreese4 p{
+       position: relative;
+       right: 1rem;
+   }
+   .Dreese5{
+       position: relative;
+       bottom: 206rem;
+       text-align: end;
+       right: 5rem;
+   }
+   .Dreese5 img{
+       height: 180px;
+       width: 170px;
+   }
+   .Dreese5 h4{
+       position: relative;
+       right: 4rem;
+   }
+   .Dreese5 h6{
+    position: relative;
+    right: 3rem;
+}
+   .Dreese5 p{
+       position: relative;
+       right: 1.8rem;
+   }
+   
+   .Dreese6{
+    position: relative;
+    bottom: 207rem;
+    text-align: center;
+    right: 35rem;
+}
+.Dreese6 img{
+    height: 180px;
+    width: 170px;
+}
+.Dreese7{
+    position: relative;
+    bottom: 223rem;
+    text-align: center;
+    right: 19rem;
+}
+.Dreese7 img{
+    height: 180px;
+    width: 170px;
+}
+.Dreese8{
+position: relative;
+bottom: 238rem;
+text-align: center;
+right: 2rem;
+}
+.Dreese9{
+    position: relative;
+bottom: 258rem;
+text-align: end;
+right: 20rem;
+}
+.Dreese9 h4{
+    position: relative;
+    right: 4.5rem;
+}
+.Dreese9 h6{
+    position: relative;
+    right: 4rem;
+}
+.Dreese9 p{
+    position: relative;
+    right: 2rem;
+}
+.Dreese10{
+    position: relative;
+    bottom: 278rem;
+    text-align: end;
+    right: 3rem;
+}
+.Dreese10 h4{
+    position: relative;
+    right: 4rem;
+}
+.Dreese10 h6{
+    font-size: 14px;
+    position: relative;
+    right: 4rem;
+}
+.Dreese10 p{
+    position: relative;
+    right: 2rem;
+}
+
+.Shoes{
+    position: relative;
+    bottom: 420rem;
+}
+
+.Shoes h1{
+    text-align: center;
+    position: relative;
+    bottom: 133rem;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Shoes1{
+    position: relative;
+    top: -130rem;
+    text-align: center;
+    right: 34rem ;
+   }
+   .Shoes2{
+       margin-left: 15rem;
+       width: 50px;
+       position: relative;
+       bottom: 150rem;
+       left: 3rem;
+   }
+   .Shoes2 h4{
+       position: relative;
+       left: 3rem;
+   }
+   .Shoes2 h6{
+       text-align: justify;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       left: 2rem;
+       width: 120px;
+   }
+   .Shoes2 p{
+    position: relative;
+    left: 2rem;
+   }
+   .Shoes3{
+      position: relative;
+      right: 0rem;
+      text-align: center;
+      bottom: 170rem;
+   }
+   .Shoes4{
+       position: relative;
+       bottom: 189rem;
+       text-align: end;
+       right: 20rem;
+   }
+   .Shoes4 h4{
+       position: relative;
+       right: 3rem ;
+   }
+   .Shoes4 h6{
+    position: relative;
+    right: 40px;
+   }
+   .Shoes4 img{
+       height: 180px;
+       width: 170px;
+   }
+   .Shoes4 p{
+       position: relative;
+       right: 1rem;
+   }
+   .Shoes5{
+       position: relative;
+       bottom: 206rem;
+       text-align: end;
+       right: 5rem;
+   }
+   .Shoes5 img{
+       height: 180px;
+       width: 170px;
+   }
+   .Shoes5 h4{
+       position: relative;
+       right: 4rem;
+   }
+   .Shoes5 h6{
+    position: relative;
+    right: 1rem;
+}
+   .Shoes5 p{
+       position: relative;
+       right: 1.8rem;
+   }
+   
+   .Shoes6{
+    position: relative;
+    bottom: 207rem;
+    text-align: center;
+    right: 35rem;
+}
+.Shoes6 img{
+    height: 180px;
+    width: 170px;
+}
+.Shoes7{
+    position: relative;
+    bottom: 223rem;
+    text-align: center;
+    right: 19rem;
+}
+.Shoes7 img{
+    height: 180px;
+    width: 170px;
+}
+.Shoes8{
+position: relative;
+bottom: 238rem;
+text-align: center;
+right: 2rem;
+}
+.Shoes9{
+    position: relative;
+bottom: 256rem;
+text-align: end;
+right: 20rem;
+}
+.Shoes9 h4{
+    position: relative;
+    right: 4.5rem;
+}
+.Shoes9 h6{
+    position: relative;
+    right: -1rem;
+}
+.Shoes9 p{
+    position: relative;
+    right: 2rem;
+}
+.Shoes10{
+    position: relative;
+    bottom: 273rem;
+    text-align: end;
+    right: 3rem;
+}
+.Shoes10 h4{
+    position: relative;
+    right: 4rem;
+}
+.Shoes10 h6{
+    font-size: 14px;
+    position: relative;
+    right: 20px;
+}
+.Shoes10 p{
+    position: relative;
+    right: 2rem;
+}
+
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(58, 4, 58);
+    position: relative;
+    bottom: 685rem;
+}
+.footer-div{
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+.email-id{
+  width: 540px;
+  height: 60px;
+  position: relative;
+  bottom: 2rem;
+  left: 25rem;
+  border: none;
+  border-radius: 30px;
+  padding-left: 1rem;
+ }
+.btn{
+  width: 120px;
+  height: 50px;
+  background-color: #eba817;
+  border: none;
+  border-radius: 30px;
+  position: relative;
+  bottom: 1.5rem;
+  left: 17.4rem;
+}
+.footer-child-last-div img{
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+   
+}
+
+.footer-child-div h2{
+  color: #eba817;
+  font-size: 20px;
+  position: relative;
+  right: 30rem;
+  top: 5rem;
+}
+
+.footer-child-div a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    color: gray;
+    font-weight: bold;
+    position: relative;
+    top: 6rem;
+    right: 32.30rem;
+}
+.footer-child-div a:hover{
+    color: white;
+
+}
+
+.footer-child-last-div{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 5rem;
+    right: 7rem;
+    color: gray;
+    
+}
+.footer-child-last-div img{
+  position: relative;
+  right: 1rem;
+}
+.keep-link{
+position: relative;
+top: 2rem;
+}
+.footer-sub-child{
+    display: flex;
+    margin-bottom: 15px;
+    
+}
+.links{
+  position: relative;
+  top: 2rem;
+}
+.links :hover{
+  color: aqua;
+}
+.text-center{
+  position: relative;
+  top: 6rem;
+  color:  #eba817;
+}
+
+@media only screen and (max-width:707px) and (min-width:510px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    .Fashion{
+        position: relative;
+        left: -10rem;
+        top: 1rem;
+        font-size: 20px;
+      }
+      .right-top-menu{
+    position: relative;
+    top: -1rem;
+    font-size: 15px;
+      }
+  
+      .nav-child{
+        
+        display: flex;
+        justify-content: space-around;
+      }
+      .nav-child img{
+        position: relative;
+        right: 3rem;
+      }
+      .nav-child a{
+        word-spacing: 2px;
+        font-size: 12px;
+        position: relative;
+        right: 7rem;
+        bottom: 0rem;
+      }
+      .nav-child-search{
+        box-sizing: 2px;
+        width: 1px;
+        position: relative;
+        bottom: -0.6rem;
+        left: -10rem;
+        font-size: 8px;
+        
+      }
+      .nav-child-search button{
+        position: relative;
+        left: 6.6rem;
+        bottom: 1.2rem;
+      }
+
+      .Trainers{
+        position: relative;
+        top: 4rem;
+        text-align: center;
+        right: 17rem ;
+        
+       }
+       .Trainers img{
+        height: 110px;
+       }
+       .Trainers h4{
+        font-size: 15px;
+       }
+       .Trainers h6{
+        font-size: 12px;
+       }
+       .Trainers p{
+        font-size: 12px;
+       }
+
+       .Trainers1{
+        margin-left: 15rem;
+        width: 50px;
+        position: relative;
+        bottom: 7rem;
+        left: -5rem;
+    }
+       .Trainers1 img{  
+        height: 110px;
+       }
+       .Trainers1 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Trainers1 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Trainers1 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+        .Trainers2{
+        position: relative;
+        right: -1rem;
+        text-align: center;
+        bottom: 19rem;
+     } 
+
+     .Trainers2 img{  
+        height: 110px;
+       }
+       .Trainers2 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Trainers2 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 11px;
+    }
+    .Trainers2 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+
+        .jeans1{
+            position: relative;
+            bottom: 30rem;
+            text-align: end;
+            right: 8rem;
+        }
+        .jeans1 h4{
+            position: relative;
+            right: 1rem ;
+            font-size: 15px;
+        }
+        .jeans1 h6{
+         position: relative;
+         right: 10px;
+         font-size: 12px;
+        }
+        .jeans1 img{
+            height: 110px;
+            width: 80px;
+        }
+        .jeans1 p{
+            position: relative;
+            right: 1rem;
+            font-size: 10px;
+        }    
+
+        .jeans2{
+            position: relative;
+            bottom: 40rem;
+            text-align: end;
+            right: 1rem;
+        }
+        .jeans2 img{
+            height: 80px;
+            width: 60px;
+        }
+        .jeans2 h4{
+            position: relative;
+            right: 2rem;
+            font-size: 10px;
+        }
+        .jeans2 h6{
+         position: relative;
+         right: -1rem;
+         font-size: 10px;
+     }
+        .jeans2 p{
+            position: relative;
+            right: 0rem;
+            font-size: 10px;
+        }
+
+        .jeans3{
+            position: relative;
+            bottom: 40rem;
+            text-align: center;
+            right: 18rem;
+        }
+        .jeans3 img{
+            height: 80px;
+            width: 70px;
+        }
+        .jeans3 h4{
+            font-size: 13px;
+        }
+        .jeans3 h6{
+            font-size: 11px;
+        }
+        .jeans3 p{
+            font-size: 11px;
+        }
+
+        .jeans4{
+            position: relative;
+            bottom: 49rem;
+            text-align: center;
+            right: 10rem;
+        }
+        .jeans4 img{
+            height: 80px;
+            width: 70px;
+        }
+        .jeans4 h4{
+            font-size: 13px;
+        }
+        .jeans4 h6{
+            font-size: 11px;
+        }
+        .jeans4 p{
+            font-size: 11px;
+        }
+         .jeans5{
+        position: relative;
+        bottom: 58rem;
+        text-align: center;
+        right: 0rem;
+        } 
+        .jeans5 img{
+            width: 70px;
+            height: 80px;
+        }
+        .jeans5 h4{
+            font-size: 13px;
+        }
+        .jeans5 h6{
+            font-size: 10px;
+        }
+        .jeans5 p{
+            font-size: 11px;
+        }
+         .jeans6{
+            position: relative;
+        bottom: 66rem;
+        text-align: end;
+        right: 9rem;
+        }
+        .jeans6 img{
+            width: 70px;
+            height: 80px;
+        }
+        .jeans6 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 13px;
+        }
+        .jeans6 h6{
+            position: relative;
+            right: -1rem;
+            font-size: 8px;
+        }
+        .jeans6 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+         .jeans7{
+            position: relative;
+            bottom: 74rem;
+            text-align: end;
+            right: 2.4rem;
+        }
+        .jeans7 img{
+            width: 70px;
+            height: 80px;
+        }
+        .jeans7 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 12px;
+        }
+        .jeans7 h6{
+            font-size: 14px;
+            position: relative;
+            right: 2px;
+            font-size: 8px;
+        }
+        .jeans7 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+
+        .saree h1{
+            text-align: center;
+            position: relative;
+            bottom: 70rem;
+            color: blueviolet;
+            background-color: aquamarine;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          }
+
+        
+      .saree1{
+        position: relative;
+        top: -68rem;
+        text-align: center;
+        right: 17rem ;
+        
+       }
+       .saree1 img{
+        height: 110px;
+       }
+       .saree1 h4{
+        font-size: 15px;
+       }
+       .saree1 h6{
+        font-size: 12px;
+       }
+       .saree1 p{
+        font-size: 12px;
+       }
+
+       .saree2{
+        margin-left: 15rem;
+        width: 50px;
+        position: relative;
+        bottom: 79rem;
+        left: -5rem;
+    }
+       .saree2 img{  
+        height: 110px;
+       }
+       .saree2 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .saree2 h6{
+        
+        position: relative;
+        left: -1rem;
+        font-size: 15px;
+    }
+    .saree2 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+        .saree3{
+        position: relative;
+        right: 1rem;
+        text-align: center;
+        bottom: 90rem;
+     } 
+
+     .saree3 img{  
+        height: 110px;
+       }
+       .saree3 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .saree3 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 11px;
+    }
+    .saree3 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+
+        .saree4{
+            position: relative;
+            bottom: 100rem;
+            text-align: end;
+            right: 11rem;
+        }
+        .saree4 h4{
+            position: relative;
+            right: 1rem ;
+            font-size: 15px;
+        }
+        .saree4 h6{
+         position: relative;
+         right: 10px;
+         font-size: 12px;
+        }
+        .saree4 img{
+            height: 110px;
+            width: 80px;
+        }
+        .saree4 p{
+            position: relative;
+            right: 1rem;
+            font-size: 10px;
+        }    
+
+        .saree5{
+            position: relative;
+            bottom: 110rem;
+            text-align: end;
+            right: 3rem;
+        }
+        .saree5 img{
+            height: 80px;
+            width: 60px;
+        }
+        .saree5 h4{
+            position: relative;
+            right: 2rem;
+            font-size: 10px;
+        }
+        .saree5 h6{
+         position: relative;
+         right: -1rem;
+         font-size: 10px;
+     }
+        .saree5 p{
+            position: relative;
+            right: 0rem;
+            font-size: 10px;
+        }
+
+        .saree6{
+            position: relative;
+            bottom: 112rem;
+            text-align: center;
+            right: 18rem;
+        }
+        .saree6 img{
+            height: 80px;
+            width: 70px;
+        }
+        .saree6 h4{
+            font-size: 13px;
+        }
+        .saree6 h6{
+            font-size: 11px;
+        }
+        .saree6 p{
+            font-size: 11px;
+        }
+
+        .saree7{
+            position: relative;
+            bottom: 121rem;
+            text-align: center;
+            right: 10rem;
+        }
+        .saree7 img{
+            height: 80px;
+            width: 70px;
+        }
+        .saree7 h4{
+            font-size: 13px;
+        }
+        .saree7 h6{
+            font-size: 11px;
+        }
+        .saree7 p{
+            font-size: 11px;
+        }
+         .saree8{
+        position: relative;
+        bottom: 130rem;
+        text-align: center;
+        right: 1rem;
+        } 
+        .saree8 img{
+            width: 70px;
+            height: 80px;
+        }
+        .saree8 h4{
+            font-size: 13px;
+        }
+        .saree8 h6{
+            font-size: 10px;
+        }
+        .saree8 p{
+            font-size: 11px;
+        }
+         .saree9{
+            position: relative;
+        bottom: 138rem;
+        text-align: end;
+        right: 12rem;
+        }
+        .saree9 img{
+            width: 70px;
+            height: 80px;
+        }
+        .saree9 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 13px;
+        }
+        .saree9 h6{
+            position: relative;
+            right: -1rem;
+            font-size: 8px;
+        }
+        .saree9 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+         .saree10{
+            position: relative;
+            bottom: 147rem;
+            text-align: end;
+            right: 2.4rem;
+        }
+        .saree10 img{
+            width: 70px;
+            height: 80px;
+        }
+        .saree10 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 12px;
+        }
+        .saree10 h6{
+            font-size: 14px;
+            position: relative;
+            right: 2px;
+            font-size: 8px;
+        }
+        .saree10 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        }   
+        
+
+        .Jeans h1{
+            text-align: center;
+            position: relative;
+            bottom: 5rem;
+            color: blueviolet;
+            background-color: aquamarine;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          }
+
+        
+      .wJeans1{
+        position: relative;
+        top: -3rem;
+        text-align: center;
+        right: 17rem ;
+        
+       }
+       .wJeans1 img{
+        height: 110px;
+       }
+       .wJeans1 h4{
+        font-size: 15px;
+       }
+       .wJeans1 h6{
+        font-size: 12px;
+       }
+       .wJeans1 p{
+        font-size: 12px;
+       }
+
+       .wJeans2{
+        margin-left: 15rem;
+        width: 50px;
+        position: relative;
+        bottom: 14rem;
+        left: -5rem;
+    }
+       .wJeans2 img{  
+        height: 110px;
+       }
+       .wJeans2 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .wJeans2 h6{
+        
+        position: relative;
+        left: -1rem;
+        font-size: 11px;
+    }
+    .wJeans2 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+        .wJeans3{
+        position: relative;
+        right: 1rem;
+        text-align: center;
+        bottom: 25rem;
+     } 
+
+     .wJeans3 img{  
+        height: 110px;
+       }
+       .wJeans3 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .wJeans3 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 11px;
+    }
+    .wJeans3 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+
+        .wJeans4{
+            position: relative;
+            bottom: 37rem;
+            text-align: end;
+            right: 11rem;
+        }
+        .wJeans4 h4{
+            position: relative;
+            right: 1rem ;
+            font-size: 15px;
+        }
+        .wJeans4 h6{
+         position: relative;
+         right: 9px;
+         font-size: 12px;
+        }
+        .wJeans4 img{
+            height: 110px;
+            width: 80px;
+        }
+        .wJeans4 p{
+            position: relative;
+            right: 1rem;
+            font-size: 10px;
+        }    
+
+        .wJeans5{
+            position: relative;
+            bottom: 46rem;
+            text-align: end;
+            right: 3rem;
+        }
+        .wJeans5 img{
+            height: 80px;
+            width: 60px;
+        }
+        .wJeans5 h4{
+            position: relative;
+            right: 2rem;
+            font-size: 10px;
+        }
+        .wJeans5 h6{
+         position: relative;
+         right: -1rem;
+         font-size: 10px;
+     }
+        .wJeans5 p{
+            position: relative;
+            right: 0rem;
+            font-size: 10px;
+        }
+
+       .last-linewjeans{
+        position: relative;
+        top: 65rem;
+       }
+        .wJeans6{
+            position: relative;
+            bottom: 112rem;
+            text-align: center;
+            right: 18rem;
+        }
+        .wJeans6 img{
+            height: 80px;
+            width: 70px;
+        }
+        .wJeans6 h4{
+            font-size: 13px;
+        }
+        .wJeans6 h6{
+            font-size: 11px;
+        }
+        .wJeans6 p{
+            font-size: 11px;
+        }
+
+        .wJeans7{
+            position: relative;
+            bottom: 121rem;
+            text-align: center;
+            right: 10rem;
+        }
+        .wJeans7 img{
+            height: 80px;
+            width: 70px;
+        }
+        .wJeans7 h4{
+            font-size: 13px;
+        }
+        .wJeans7 h6{
+            font-size: 11px;
+        }
+        .wJeans7 p{
+            font-size: 11px;
+        }
+         .wJeans8{
+        position: relative;
+        bottom: 130rem;
+        text-align: center;
+        right: 1rem;
+        } 
+        .wJeans8 img{
+            width: 70px;
+            height: 80px;
+        }
+        .wJeans8 h4{
+            font-size: 13px;
+        }
+        .wJeans8 h6{
+            font-size: 10px;
+        }
+        .wJeans8 p{
+            font-size: 11px;
+        }
+         .wJeans9{
+            position: relative;
+        bottom: 138rem;
+        text-align: end;
+        right: 12rem;
+        }
+        .wJeans9 img{
+            width: 70px;
+            height: 80px;
+        }
+        .wJeans9 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 13px;
+        }
+        .wJeans9 h6{
+            position: relative;
+            right: -1rem;
+            font-size: 8px;
+        }
+        .wJeans9 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+         .wJeans10{
+            position: relative;
+            bottom: 147rem;
+            text-align: end;
+            right: 2.4rem;
+        }
+        .wJeans10 img{
+            width: 70px;
+            height: 80px;
+        }
+        .wJeans10 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 12px;
+        }
+        .wJeans10 h6{
+            font-size: 14px;
+            position: relative;
+            right: 2px;
+            font-size: 8px;
+        }
+        .wJeans10 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+
+      
+
+        .Dreeses h1{
+            text-align: center;
+            position: relative;
+            bottom: -65rem;
+            color: blueviolet;
+            background-color: aquamarine;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          }
+.fast-linetop{
+    position: relative;
+    top: 70rem;
+}
+        
+      .Dreese1{
+        position: relative;
+        top: -3rem;
+        text-align: center;
+        right: 17rem ;
+        
+       }
+       .Dreese1 img{
+        height: 110px;
+       }
+       .Dreese1 h4{
+        font-size: 15px;
+       }
+       .Dreese1 h6{
+        font-size: 12px;
+       }
+       .Dreese1 p{
+        font-size: 12px;
+       }
+
+       .Dreese2{
+        margin-left: 15rem;
+        width: 50px;
+        position: relative;
+        bottom: 14rem;
+        left: -5rem;
+    }
+       .Dreese2 img{  
+        height: 110px;
+       }
+       .Dreese2 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Dreese2 h6{
+        
+        position: relative;
+        left: -1rem;
+        font-size: 11px;
+    }
+    .Dreese2 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+        .Dreese3{
+        position: relative;
+        right: 1rem;
+        text-align: center;
+        bottom: 25rem;
+     } 
+
+     .Dreese3 img{  
+        height: 110px;
+       }
+       .Dreese3 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Dreese3 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 11px;
+    }
+    .Dreese3 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+
+        .Dreese4{
+            position: relative;
+            bottom: 37rem;
+            text-align: end;
+            right: 11rem;
+        }
+        .Dreese4 h4{
+            position: relative;
+            right: 1rem ;
+            font-size: 15px;
+        }
+        .Dreese4 h6{
+         position: relative;
+         right: 9px;
+         font-size: 12px;
+        }
+        .Dreese4 img{
+            height: 110px;
+            width: 80px;
+        }
+        .Dreese4 p{
+            position: relative;
+            right: 1rem;
+            font-size: 10px;
+        }    
+
+        .Dreese5{
+            position: relative;
+            bottom: 46rem;
+            text-align: end;
+            right: 3rem;
+        }
+        .Dreese5 img{
+            height: 80px;
+            width: 60px;
+        }
+        .Dreese5 h4{
+            position: relative;
+            right: 2rem;
+            font-size: 10px;
+        }
+        .Dreese5 h6{
+         position: relative;
+         right: -1rem;
+         font-size: 10px;
+     }
+        .Dreese5 p{
+            position: relative;
+            right: 0rem;
+            font-size: 10px;
+        }
+
+      
+       .last-linetop{
+        position: relative;
+        top: 137rem;
+       }
+        .Dreese6{
+            position: relative;
+            bottom: 112rem;
+            text-align: center;
+            right: 18rem;
+        }
+        .Dreese6 img{
+            height: 90px;
+            width: 70px;
+        }
+        .Dreese6 h4{
+            font-size: 13px;
+        }
+        .Dreese6 h6{
+            font-size: 11px;
+        }
+        .Dreese6 p{
+            font-size: 11px;
+        }
+
+        .Dreese7{
+            position: relative;
+            bottom: 121rem;
+            text-align: center;
+            right: 10rem;
+        }
+        .Dreese7 img{
+            height: 80px;
+            width: 70px;
+        }
+        .Dreese7 h4{
+            font-size: 13px;
+        }
+        .Dreese7 h6{
+            font-size: 11px;
+        }
+        .Dreese7 p{
+            font-size: 11px;
+        }
+         .Dreese8{
+        position: relative;
+        bottom: 130rem;
+        text-align: center;
+        right: 1rem;
+        } 
+        .Dreese8 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Dreese8 h4{
+            font-size: 13px;
+        }
+        .Dreese8 h6{
+            font-size: 10px;
+        }
+        .Dreese8 p{
+            font-size: 11px;
+        }
+         .Dreese9{
+            position: relative;
+        bottom: 138rem;
+        text-align: end;
+        right: 12rem;
+        }
+        .Dreese9 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Dreese9 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 13px;
+        }
+        .Dreese9 h6{
+            position: relative;
+            right: -1rem;
+            font-size: 8px;
+        }
+        .Dreese9 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+         .Dreese10{
+            position: relative;
+            bottom: 147rem;
+            text-align: end;
+            right: 2.4rem;
+        }
+        .Dreese10 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Dreese10 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 12px;
+        }
+        .Dreese10 h6{
+            font-size: 14px;
+            position: relative;
+            right: 2px;
+            font-size: 8px;
+        }
+        .Dreese10 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+
+
+        .Shoes h1{
+            text-align: center;
+            position: relative;
+            bottom: -132rem;
+            color: blueviolet;
+            background-color: aquamarine;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          }
+.fast-linetoys{
+    position: relative;
+    top: 137rem;
+}
+        
+      .Shoes1{
+        position: relative;
+        top: -3rem;
+        text-align: center;
+        right: 17rem ;
+        
+       }
+       .Shoes1 img{
+        height: 110px;
+       }
+       .Shoes1 h4{
+        font-size: 15px;
+       }
+       .Shoes1 h6{
+        font-size: 12px;
+       }
+       .Shoes1 p{
+        font-size: 12px;
+       }
+
+       .Shoes2{
+        margin-left: 15rem;
+        width: 50px;
+        position: relative;
+        bottom: 14rem;
+        left: -7rem;
+    }
+       .Shoes2 img{  
+        height: 110px;
+       }
+       .Shoes2 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Shoes2 h6{
+        
+        position: relative;
+        left: -1rem;
+        font-size: 11px;
+    }
+    .Shoes2 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+        .Shoes3{
+        position: relative;
+        right: 1rem;
+        text-align: center;
+        bottom: 25rem;
+     } 
+
+     .Shoes3 img{  
+        height: 110px;
+       }
+       .Shoes3 h4{
+        position: relative;
+        left: 1rem;
+        font-size: 15px;
+    }
+    .Shoes3 h6{
+        
+        position: relative;
+        left: 1rem;
+        font-size: 11px;
+    }
+    .Shoes3 p{
+     position: relative;
+     left: 0rem;
+     font-size: 12px;
+        }
+
+        .Shoes4{
+            position: relative;
+            bottom: 37rem;
+            text-align: end;
+            right: 11rem;
+        }
+        .Shoes4 h4{
+            position: relative;
+            right: 1rem ;
+            font-size: 15px;
+        }
+        .Shoes4 h6{
+         position: relative;
+         right: 9px;
+         font-size: 12px;
+        }
+        .Shoes4 img{
+            height: 110px;
+            width: 80px;
+        }
+        .Shoes4 p{
+            position: relative;
+            right: 1rem;
+            font-size: 10px;
+        }    
+
+        .Shoes5{
+            position: relative;
+            bottom: 46rem;
+            text-align: end;
+            right: 3rem;
+        }
+        .Shoes5 img{
+            height: 80px;
+            width: 60px;
+        }
+        .Shoes5 h4{
+            position: relative;
+            right: 2rem;
+            font-size: 10px;
+        }
+        .Shoes5 h6{
+         position: relative;
+         right: -1rem;
+         font-size: 10px;
+     }
+        .Shoes5 p{
+            position: relative;
+            right: 0rem;
+            font-size: 10px;
+        }
+
+      
+       .last-linetoys{
+        position: relative;
+        top: 205rem;
+       }
+        .Shoes6{
+            position: relative;
+            bottom: 112rem;
+            text-align: center;
+            right: 18rem;
+        }
+        .Shoes6 img{
+            height: 90px;
+            width: 70px;
+        }
+        .Shoes6 h4{
+            font-size: 13px;
+        }
+        .Shoes6 h6{
+            font-size: 11px;
+        }
+        .Shoes6 p{
+            font-size: 11px;
+        }
+
+        .Shoes7{
+            position: relative;
+            bottom: 121rem;
+            text-align: center;
+            right: 10rem;
+        }
+        .Shoes7 img{
+            height: 80px;
+            width: 70px;
+        }
+        .Shoes7 h4{
+            font-size: 13px;
+        }
+        .Shoes7 h6{
+            font-size: 11px;
+        }
+        .Shoes7 p{
+            font-size: 11px;
+        }
+         .Shoes8{
+        position: relative;
+        bottom: 130rem;
+        text-align: center;
+        right: 1rem;
+        } 
+        .Shoes8 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Shoes8 h4{
+            font-size: 13px;
+        }
+        .Shoes8 h6{
+            font-size: 10px;
+        }
+        .Shoes8 p{
+            font-size: 11px;
+        }
+         .Shoes9{
+            position: relative;
+        bottom: 138rem;
+        text-align: end;
+        right: 12rem;
+        }
+        .Shoes9 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Shoes9 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 13px;
+        }
+        .Shoes9 h6{
+            position: relative;
+            right: -1rem;
+            font-size: 8px;
+        }
+        .Shoes9 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+         .Shoes10{
+            position: relative;
+            bottom: 147rem;
+            text-align: end;
+            right: 2.4rem;
+        }
+        .Shoes10 img{
+            width: 70px;
+            height: 80px;
+        }
+        .Shoes10 h4{
+            position: relative;
+            right: 1rem;
+            font-size: 12px;
+        }
+        .Shoes10 h6{
+            font-size: 14px;
+            position: relative;
+            right: 2px;
+            font-size: 8px;
+        }
+        .Shoes10 p{
+            position: relative;
+            right: 0rem;
+            font-size: 11px;
+        } 
+    .footer{
+      
+      position: relative;
+      bottom: 353rem;
+  }
+    .email-id{
+      width: 540px;
+      height: 60px;
+      position: relative;
+      bottom: 2rem;
+      left: 9.8rem;
+      border: none;
+      border-radius: 30px;
+      padding-left: 1rem;
+     }
+    .btn{
+      width: 120px;
+      height: 50px;
+      background-color: #eba817;
+      border: none;
+      border-radius: 30px;
+      position: relative;
+      bottom: 1.4rem;
+      left: 7rem;
+    }
+
+    .footer-child-div h2{
+      color: #eba817;
+      font-size: 14px;
+      position: relative;
+      right: 17rem;
+      top: 5rem;
+      display: flex;
+      justify-content: space-around;
+    }
+   
+    .footer-child-div a {
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        font-size: 13px;
+        position: relative;
+        top: 6rem;
+        right: 18rem;
+    }
+    .footer-child-last-div img{
+      width: 40px;
+      height: 40px;
+      border-radius: 200px;
+     position: relative;
+     right: 3rem;
+  }
+  .footer-sub-child h6{
+    
+    font-size: 13px;
+    position: relative;
+     right: 2rem;
+}
+.text-center{
+ font-size: 17px;
+ padding-top: 2rem;
+}
+  } 
